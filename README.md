@@ -1,5 +1,5 @@
 # Receipts
 Example repository for DevApps Course
 
-- Gulyas Is missing
+- Gulyas will be uploaded
 - Omlett is missing
